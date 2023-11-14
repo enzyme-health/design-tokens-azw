@@ -3,6 +3,7 @@
     "core/reference",
     "semantic/alias(Matisse)",
     "Matisse/light",
+    "TEST/light",
     "HeyDoctor/light"
   ]
 }

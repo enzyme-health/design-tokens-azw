@@ -1,0 +1,8 @@
+{
+  "brandFont": {
+    "primary": {
+      "value": "{fontFamily.roboto slab}",
+      "type": "fontFamilies"
+    }
+  }
+}
