@@ -278,7 +278,6 @@
     },
     "selectedTokenSets": {
       "core/reference": "source",
-      "HeyDoctor/light": "disabled",
       "semantic/alias(Matisse)": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:127:317",
@@ -424,8 +423,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/reference": "source",
-      "HeyDoctor/light": "enabled",
-      "semantic/alias(Matisse)": "disabled"
+      "HeyDoctor/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:127:317",
     "$figmaModeId": "127:2",
