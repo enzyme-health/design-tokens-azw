@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "core/reference",
-    "client/matisse",
-    "client/HeyDoctor"
+    "semantic/alias(Matisse)",
+    "HeyDoctor/light"
   ]
 }
