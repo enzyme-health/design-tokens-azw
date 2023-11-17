@@ -454,26 +454,6 @@
     "Inter": {
       "value": "Inter",
       "type": "fontFamilies"
-    },
-    "apercu pro": {
-      "value": "Apercu Pro",
-      "type": "fontFamilies"
-    },
-    "ogg text": {
-      "value": "Ogg Text",
-      "type": "fontFamilies"
-    },
-    "roboto mono": {
-      "value": "Roboto Mono",
-      "type": "fontFamilies"
-    },
-    "open sans": {
-      "value": "Open Sans",
-      "type": "fontFamilies"
-    },
-    "roboto slab": {
-      "value": "Roboto Slab",
-      "type": "fontFamilies"
     }
   },
   "fontWeight": {
