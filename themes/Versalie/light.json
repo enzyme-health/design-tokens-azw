@@ -21,12 +21,6 @@
       "type": "borderRadius"
     }
   },
-  "brandFont": {
-    "primary": {
-      "value": "{fontFamily.Inter}",
-      "type": "fontFamilies"
-    }
-  },
   "font": {
     "header": {
       "xl": {
