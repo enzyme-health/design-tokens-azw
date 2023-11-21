@@ -79,8 +79,7 @@
     "selectedTokenSets": {
       "core/reference": "source",
       "semantic/alias(Matisse)": "enabled",
-      "Matisse/light": "enabled",
-      "Versalie/light": "disabled"
+      "Matisse/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:127:317",
     "$figmaModeId": "127:1",
@@ -94,8 +93,7 @@
     "selectedTokenSets": {
       "core/reference": "source",
       "HeyDoctor/light": "enabled",
-      "semantic/alias(Matisse)": "enabled",
-      "Versalie/light": "disabled"
+      "semantic/alias(Matisse)": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:127:317",
     "$figmaModeId": "127:2",
@@ -109,8 +107,7 @@
     "selectedTokenSets": {
       "core/reference": "source",
       "semantic/alias(Matisse)": "enabled",
-      "TEST/light": "enabled",
-      "Versalie/light": "disabled"
+      "TEST/light": "enabled"
     },
     "group": "Clients"
   },
