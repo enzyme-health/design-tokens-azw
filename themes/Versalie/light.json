@@ -1,0 +1,87 @@
+{
+  "border-radius": {
+    "150": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "200": {
+      "value": "24",
+      "type": "borderRadius"
+    },
+    "300": {
+      "value": "28",
+      "type": "borderRadius"
+    },
+    "400": {
+      "value": "32",
+      "type": "borderRadius"
+    },
+    "1000": {
+      "value": "80",
+      "type": "borderRadius"
+    }
+  },
+  "brandFont": {
+    "primary": {
+      "value": "{fontFamily.Inter}",
+      "type": "fontFamilies"
+    }
+  },
+  "font": {
+    "header": {
+      "xl": {
+        "value": {
+          "fontWeight": "{fontWeight.semi bold}",
+          "lineHeight": "{lineHeight.44}",
+          "fontSize": "{fontSize.40}",
+          "fontFamily": "Acta"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "color": {
+    "primary": {
+      "ui": {
+        "deafult": {
+          "value": "#1b1b1b",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#2c3039",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#737373",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#A5AAAA",
+          "type": "color"
+        }
+      }
+    },
+    "alert": {
+      "ui": {
+        "default": {
+          "value": "#A32A33",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#62191F",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#62191F",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "#1b1b1b",
+        "type": "color"
+      }
+    }
+  }
+}
