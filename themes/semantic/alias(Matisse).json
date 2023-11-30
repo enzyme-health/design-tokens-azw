@@ -453,7 +453,8 @@
       "ui": {
         "deafult": {
           "value": "{colors.blue.800}",
-          "type": "color"
+          "type": "color",
+          "description": "This is what an optional description looks like."
         },
         "hover": {
           "value": "{colors.blue.600}",
