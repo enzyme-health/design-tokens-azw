@@ -37,7 +37,7 @@
   "color": {
     "primary": {
       "ui": {
-        "deafult": {
+        "default": {
           "value": "#1b1b1b",
           "type": "color"
         },

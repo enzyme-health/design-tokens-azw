@@ -384,7 +384,7 @@
   "color": {
     "primary": {
       "ui": {
-        "deafult": {
+        "default": {
           "value": "#0054F9",
           "type": "color"
         },

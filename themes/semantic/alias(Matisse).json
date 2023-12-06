@@ -451,7 +451,7 @@
   "color": {
     "primary": {
       "ui": {
-        "deafult": {
+        "default": {
           "value": "{colors.blue.800}",
           "type": "color",
           "description": "This is what an optional description looks like."
